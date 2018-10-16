@@ -1,15 +1,15 @@
-[HanPeaceSansHW-Regular]
-	f=Han Peace Sans HW
+[HanPeaceSansHWJP-Regular]
+	f=Han Peace Sans HW JP
 	s=Regular
 
-[HanPeaceSansHWK-Regular]
-	f=Han Peace Sans HW K
+[HanPeaceSansHWKR-Regular]
+	f=Han Peace Sans HW KR
 	s=Regular
 
-[HanPeaceSansHWSC-Regular]
-	f=Han Peace Sans HW SC
+[HanPeaceSansHWCN-Regular]
+	f=Han Peace Sans HW CN
 	s=Regular
 
-[HanPeaceSansHWTC-Regular]
-	f=Han Peace Sans HW TC
+[HanPeaceSansHWTW-Regular]
+	f=Han Peace Sans HW TW
 	s=Regular

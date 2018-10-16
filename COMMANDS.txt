@@ -77,11 +77,11 @@ makeotf -f cidfont.ps.KR -ff features.KR -fi cidfontinfo.KR.SL -mf ../FontMenuNa
 
 # Simplified Chinese
 
-makeotf -f cidfont.ps.OTC.SC -ff features.OTC.SC -fi cidfontinfo.OTC.SC -mf ../../FontMenuNameDB -r -nS -cs 25 -ch ../../UniHanPeaceSansCN-UTF32-H
+makeotf -f cidfont.ps.OTC.CN -ff features.OTC.CN -fi cidfontinfo.OTC.CN -mf ../../FontMenuNameDB -r -nS -cs 25 -ch ../../UniHanPeaceSansCN-UTF32-H
 
 # Traditional Chinese (TW)
 
-makeotf -f cidfont.ps.OTC.TC -ff features.OTC.TC -fi cidfontinfo.OTC.TC -mf ../../FontMenuNameDB -r -nS -cs 2 -ch ../../UniHanPeaceSansTW-UTF32-H -ci ../../HanPeaceSans_TWHK_sequences.txt
+makeotf -f cidfont.ps.OTC.TW -ff features.OTC.TW -fi cidfontinfo.OTC.TW -mf ../../FontMenuNameDB -r -nS -cs 2 -ch ../../UniHanPeaceSansTW-UTF32-H -ci ../../HanPeaceSans_TWHK_sequences.txt
 
 # Japanese
 
@@ -96,11 +96,11 @@ makeotf -f cidfont.ps.OTC.K -ff features.OTC.K -fi cidfontinfo.OTC.K -mf ../../F
 
 # Simplified Chinese
 
-makeotf -f cidfont.ps.OTC.SC -ff features.OTC.SC -fi cidfontinfo.OTC.SC -mf ../../FontMenuNameDB.SL -r -nS -cs 25 -ch ../../UniHanPeaceSansCN-UTF32-H
+makeotf -f cidfont.ps.OTC.CN -ff features.OTC.CN -fi cidfontinfo.OTC.CN -mf ../../FontMenuNameDB.SL -r -nS -cs 25 -ch ../../UniHanPeaceSansCN-UTF32-H
 
 # Traditional Chinese (TW)
 
-makeotf -f cidfont.ps.OTC.TC -ff features.OTC.TC -fi cidfontinfo.OTC.TC -mf ../../FontMenuNameDB.SL -r -nS -cs 2 -ch ../../UniHanPeaceSansTW-UTF32-H -ci ../../HanPeaceSans_TWHK_sequences.txt
+makeotf -f cidfont.ps.OTC.TW -ff features.OTC.TW -fi cidfontinfo.OTC.TW -mf ../../FontMenuNameDB.SL -r -nS -cs 2 -ch ../../UniHanPeaceSansTW-UTF32-H -ci ../../HanPeaceSans_TWHK_sequences.txt
 
 # Japanese
 
@@ -114,11 +114,11 @@ makeotf -f cidfont.ps.OTC.K -ff features.OTC.K -fi cidfontinfo.OTC.K -mf ../../F
 
 # Simplified Chinese
 
-makeotf -f cidfont.ps.OTC.SC -ff features.OTC.SC -fi cidfontinfo.OTC.SC.SL -mf ../../FontMenuNameDB.SL -r -nS -cs 25 -ch ../../UniHanPeaceSansCN-UTF32-H
+makeotf -f cidfont.ps.OTC.CN -ff features.OTC.CN -fi cidfontinfo.OTC.CN.SL -mf ../../FontMenuNameDB.SL -r -nS -cs 25 -ch ../../UniHanPeaceSansCN-UTF32-H
 
 # Traditional Chinese (TW)
 
-makeotf -f cidfont.ps.OTC.TC -ff features.OTC.TC -fi cidfontinfo.OTC.TC.SL -mf ../../FontMenuNameDB.SL -r -nS -cs 2 -ch ../../UniHanPeaceSansTW-UTF32-H -ci ../../HanPeaceSans_TWHK_sequences.txt
+makeotf -f cidfont.ps.OTC.TW -ff features.OTC.TW -fi cidfontinfo.OTC.TW.SL -mf ../../FontMenuNameDB.SL -r -nS -cs 2 -ch ../../UniHanPeaceSansTW-UTF32-H -ci ../../HanPeaceSans_TWHK_sequences.txt
 
 # Japanese
 
@@ -133,11 +133,11 @@ makeotf -f cidfont.ps.OTC.K -ff features.OTC.K -fi cidfontinfo.OTC.K.SL -mf ../.
 
 # Simplified Chinese
 
-makeotf -f cidfont.ps.OTC.HW.SC -ff features.OTC.SC -fi cidfontinfo.OTC.HW.SC -mf ../../FontMenuNameDB.HW -r -nS -cs 25 -ch ../../UniHanPeaceSansHWCN-UTF32-H
+makeotf -f cidfont.ps.OTC.HW.CN -ff features.OTC.CN -fi cidfontinfo.OTC.HW.CN -mf ../../FontMenuNameDB.HW -r -nS -cs 25 -ch ../../UniHanPeaceSansHWCN-UTF32-H
 
 # Traditional Chinese (TW)
 
-makeotf -f cidfont.ps.OTC.HW.TC -ff features.OTC.TC -fi cidfontinfo.OTC.HW.TC -mf ../../FontMenuNameDB.HW -r -nS -cs 2 -ch ../../UniHanPeaceSansHWTW-UTF32-H -ci ../../HanPeaceSans_TWHK_sequences.txt
+makeotf -f cidfont.ps.OTC.HW.TW -ff features.OTC.TW -fi cidfontinfo.OTC.HW.TW -mf ../../FontMenuNameDB.HW -r -nS -cs 2 -ch ../../UniHanPeaceSansHWTW-UTF32-H -ci ../../HanPeaceSans_TWHK_sequences.txt
 
 # Japanese
 
@@ -152,11 +152,11 @@ makeotf -f cidfont.ps.OTC.HW.K -ff features.OTC.K -fi cidfontinfo.OTC.HW.K -mf .
 
 # Simplified Chinese
 
-makeotf -f cidfont.ps.OTC.HW.SC -ff features.OTC.SC -fi cidfontinfo.OTC.HW.SC -mf ../../FontMenuNameDB.HW.SL -r -nS -cs 25 -ch ../../UniHanPeaceSansHWCN-UTF32-H
+makeotf -f cidfont.ps.OTC.HW.CN -ff features.OTC.CN -fi cidfontinfo.OTC.HW.CN -mf ../../FontMenuNameDB.HW.SL -r -nS -cs 25 -ch ../../UniHanPeaceSansHWCN-UTF32-H
 
 # Traditional Chinese (TW)
 
-makeotf -f cidfont.ps.OTC.HW.TC -ff features.OTC.TC -fi cidfontinfo.OTC.HW.TC -mf ../../FontMenuNameDB.HW.SL -r -nS -cs 2 -ch ../../UniHanPeaceSansHWTW-UTF32-H -ci ../../HanPeaceSans_TWHK_sequences.txt
+makeotf -f cidfont.ps.OTC.HW.TW -ff features.OTC.TW -fi cidfontinfo.OTC.HW.TW -mf ../../FontMenuNameDB.HW.SL -r -nS -cs 2 -ch ../../UniHanPeaceSansHWTW-UTF32-H -ci ../../HanPeaceSans_TWHK_sequences.txt
 
 # Japanese
 
@@ -170,11 +170,11 @@ makeotf -f cidfont.ps.OTC.HW.K -ff features.OTC.K -fi cidfontinfo.OTC.HW.K -mf .
 
 # Simplified Chinese
 
-makeotf -f cidfont.ps.OTC.HW.SC -ff features.OTC.SC -fi cidfontinfo.OTC.HW.SC.SL -mf ../../FontMenuNameDB.HW.SL -r -nS -cs 25 -ch ../../UniHanPeaceSansHWCN-UTF32-H
+makeotf -f cidfont.ps.OTC.HW.CN -ff features.OTC.CN -fi cidfontinfo.OTC.HW.CN.SL -mf ../../FontMenuNameDB.HW.SL -r -nS -cs 25 -ch ../../UniHanPeaceSansHWCN-UTF32-H
 
 # Traditional Chinese (TW)
 
-makeotf -f cidfont.ps.OTC.HW.TC -ff features.OTC.TC -fi cidfontinfo.OTC.HW.TC.SL -mf ../../FontMenuNameDB.HW.SL -r -nS -cs 2 -ch ../../UniHanPeaceSansHWTW-UTF32-H -ci ../../HanPeaceSans_TWHK_sequences.txt
+makeotf -f cidfont.ps.OTC.HW.TW -ff features.OTC.TW -fi cidfontinfo.OTC.HW.TW.SL -mf ../../FontMenuNameDB.HW.SL -r -nS -cs 2 -ch ../../UniHanPeaceSansHWTW-UTF32-H -ci ../../HanPeaceSans_TWHK_sequences.txt
 
 # Japanese
 
@@ -187,11 +187,11 @@ makeotf -f cidfont.ps.OTC.HW.K -ff features.OTC.K -fi cidfontinfo.OTC.HW.K.SL -m
 ### Command line for building the OTCs (replace $dir with the face name)
 ### Executed in {ExtraLight,Light,Normal,Medium,Heavy}/OTC
 
-otf2otc -t 'CFF '=0 -o HanPeaceSans-$dir.ttc HanPeaceSans-$dir.otf HanPeaceSansK-$dir.otf HanPeaceSansSC-$dir.otf HanPeaceSansTC-$dir.otf
+otf2otc -t 'CFF '=0 -o HanPeaceSansJP-$dir.ttc HanPeaceSansJP-$dir.otf HanPeaceSansKR-$dir.otf HanPeaceSansSC-$dir.otf HanPeaceSansTC-$dir.otf
 
 ### Executed in {Regular,Bold}/OTC
 
-otf2otc -t 'CFF '=0 -o HanPeaceSans-$dir.ttc HanPeaceSans-$dir.otf HanPeaceSansK-$dir.otf HanPeaceSansSC-$dir.otf HanPeaceSansTC-$dir.otf HanPeaceSansHW-$dir.otf HanPeaceSansHWK-$dir.otf HanPeaceSansHWSC-$dir.otf HanPeaceSansHWTC-$dir.otf
+otf2otc -t 'CFF '=0 -o HanPeaceSansJP-$dir.ttc HanPeaceSansJP-$dir.otf HanPeaceSansKR-$dir.otf HanPeaceSansSC-$dir.otf HanPeaceSansTC-$dir.otf HanPeaceSansHWJP-$dir.otf HanPeaceSansHWKR-$dir.otf HanPeaceSansHWSC-$dir.otf HanPeaceSansHWTW-$dir.otf
 
 ### Command lines for building the Super OTC
 
@@ -200,49 +200,49 @@ otf2otc -t 'CFF '=0 -o HanPeaceSans-$dir.ttc HanPeaceSans-$dir.otf HanPeaceSansK
 # Korean OTFs (replace $dir with the face name)
 # Executed in {ExtraLight,Light,Normal,Medium,Heavy}/OTC
 
-sfntedit -x CFF=CFF.J HanPeaceSans-$dir.otf
-cp HanPeaceSans-$dir.otf HanPeaceSans-$dir.otf.tmp
-cp HanPeaceSansK-$dir.otf HanPeaceSansK-$dir.otf.tmp
+sfntedit -x CFF=CFF.J HanPeaceSansJP-$dir.otf
+cp HanPeaceSansJP-$dir.otf HanPeaceSansJP-$dir.otf.tmp
+cp HanPeaceSansKR-$dir.otf HanPeaceSansKR-$dir.otf.tmp
 cp HanPeaceSansSC-$dir.otf HanPeaceSansSC-$dir.otf.tmp
 cp HanPeaceSansTC-$dir.otf HanPeaceSansTC-$dir.otf.tmp
-sfntedit -a CFF=CFF.J HanPeaceSansK-$dir.otf.tmp
+sfntedit -a CFF=CFF.J HanPeaceSansKR-$dir.otf.tmp
 sfntedit -a CFF=CFF.J HanPeaceSansSC-$dir.otf.tmp
 sfntedit -a CFF=CFF.J HanPeaceSansTC-$dir.otf.tmp
-sfntedit -d DSIG HanPeaceSans-$dir.otf.tmp
-sfntedit -d DSIG HanPeaceSansK-$dir.otf.tmp
+sfntedit -d DSIG HanPeaceSansJP-$dir.otf.tmp
+sfntedit -d DSIG HanPeaceSansKR-$dir.otf.tmp
 sfntedit -d DSIG HanPeaceSansSC-$dir.otf.tmp
 sfntedit -d DSIG HanPeaceSansTC-$dir.otf.tmp
 
 # Executed in {Regular,Bold}/OTC
 
-sfntedit -x CFF=CFF.J HanPeaceSans-$dir.otf
-cp HanPeaceSans-$dir.otf HanPeaceSans-$dir.otf.tmp
-cp HanPeaceSansK-$dir.otf HanPeaceSansK-$dir.otf.tmp
+sfntedit -x CFF=CFF.J HanPeaceSansJP-$dir.otf
+cp HanPeaceSansJP-$dir.otf HanPeaceSansJP-$dir.otf.tmp
+cp HanPeaceSansKR-$dir.otf HanPeaceSansKR-$dir.otf.tmp
 cp HanPeaceSansSC-$dir.otf HanPeaceSansSC-$dir.otf.tmp
 cp HanPeaceSansTC-$dir.otf HanPeaceSansTC-$dir.otf.tmp
-cp HanPeaceSansHW-$dir.otf HanPeaceSansHW-$dir.otf.tmp
-cp HanPeaceSansHWK-$dir.otf HanPeaceSansHWK-$dir.otf.tmp
+cp HanPeaceSansHWJP-$dir.otf HanPeaceSansHWJP-$dir.otf.tmp
+cp HanPeaceSansHWKR-$dir.otf HanPeaceSansHWKR-$dir.otf.tmp
 cp HanPeaceSansHWSC-$dir.otf HanPeaceSansHWSC-$dir.otf.tmp
-cp HanPeaceSansHWTC-$dir.otf HanPeaceSansHWTC-$dir.otf.tmp
-sfntedit -a CFF=CFF.J HanPeaceSansK-$dir.otf.tmp
+cp HanPeaceSansHWTW-$dir.otf HanPeaceSansHWTW-$dir.otf.tmp
+sfntedit -a CFF=CFF.J HanPeaceSansKR-$dir.otf.tmp
 sfntedit -a CFF=CFF.J HanPeaceSansSC-$dir.otf.tmp
 sfntedit -a CFF=CFF.J HanPeaceSansTC-$dir.otf.tmp
-sfntedit -a CFF=CFF.J HanPeaceSansHW-$dir.otf.tmp
-sfntedit -a CFF=CFF.J HanPeaceSansHWK-$dir.otf.tmp
+sfntedit -a CFF=CFF.J HanPeaceSansHWJP-$dir.otf.tmp
+sfntedit -a CFF=CFF.J HanPeaceSansHWKR-$dir.otf.tmp
 sfntedit -a CFF=CFF.J HanPeaceSansHWSC-$dir.otf.tmp
-sfntedit -a CFF=CFF.J HanPeaceSansHWTC-$dir.otf.tmp
-sfntedit -d DSIG HanPeaceSans-$dir.otf.tmp
-sfntedit -d DSIG HanPeaceSansK-$dir.otf.tmp
+sfntedit -a CFF=CFF.J HanPeaceSansHWTW-$dir.otf.tmp
+sfntedit -d DSIG HanPeaceSansJP-$dir.otf.tmp
+sfntedit -d DSIG HanPeaceSansKR-$dir.otf.tmp
 sfntedit -d DSIG HanPeaceSansSC-$dir.otf.tmp
 sfntedit -d DSIG HanPeaceSansTC-$dir.otf.tmp
-sfntedit -d DSIG HanPeaceSansHW-$dir.otf.tmp
-sfntedit -d DSIG HanPeaceSansHWK-$dir.otf.tmp
+sfntedit -d DSIG HanPeaceSansHWJP-$dir.otf.tmp
+sfntedit -d DSIG HanPeaceSansHWKR-$dir.otf.tmp
 sfntedit -d DSIG HanPeaceSansHWSC-$dir.otf.tmp
-sfntedit -d DSIG HanPeaceSansHWTC-$dir.otf.tmp
+sfntedit -d DSIG HanPeaceSansHWTW-$dir.otf.tmp
 
 # Command line for building the Super OTC
 # Executed in the root directory
 
-otf2otc -o HanPeaceSans.ttc ExtraLight/OTC/HanPeaceSans-ExtraLight.otf.tmp ExtraLight/OTC/HanPeaceSansK-ExtraLight.otf.tmp ExtraLight/OTC/HanPeaceSansSC-ExtraLight.otf.tmp ExtraLight/OTC/HanPeaceSansTC-ExtraLight.otf.tmp Light/OTC/HanPeaceSans-Light.otf.tmp Light/OTC/HanPeaceSansK-Light.otf.tmp Light/OTC/HanPeaceSansSC-Light.otf.tmp Light/OTC/HanPeaceSansTC-Light.otf.tmp Normal/OTC/HanPeaceSans-Normal.otf.tmp Normal/OTC/HanPeaceSansK-Normal.otf.tmp Normal/OTC/HanPeaceSansSC-Normal.otf.tmp Normal/OTC/HanPeaceSansTC-Normal.otf.tmp Regular/OTC/HanPeaceSans-Regular.otf.tmp Regular/OTC/HanPeaceSansK-Regular.otf.tmp Regular/OTC/HanPeaceSansSC-Regular.otf.tmp Regular/OTC/HanPeaceSansTC-Regular.otf.tmp Regular/OTC/HanPeaceSansHW-Regular.otf.tmp Regular/OTC/HanPeaceSansHWK-Regular.otf.tmp Regular/OTC/HanPeaceSansHWSC-Regular.otf.tmp Regular/OTC/HanPeaceSansHWTC-Regular.otf.tmp Medium/OTC/HanPeaceSans-Medium.otf.tmp Medium/OTC/HanPeaceSansK-Medium.otf.tmp Medium/OTC/HanPeaceSansSC-Medium.otf.tmp Medium/OTC/HanPeaceSansTC-Medium.otf.tmp Bold/OTC/HanPeaceSans-Bold.otf.tmp Bold/OTC/HanPeaceSansK-Bold.otf.tmp Bold/OTC/HanPeaceSansSC-Bold.otf.tmp Bold/OTC/HanPeaceSansTC-Bold.otf.tmp Bold/OTC/HanPeaceSansHW-Bold.otf.tmp Bold/OTC/HanPeaceSansHWK-Bold.otf.tmp Bold/OTC/HanPeaceSansHWSC-Bold.otf.tmp Bold/OTC/HanPeaceSansHWTC-Bold.otf.tmp Heavy/OTC/HanPeaceSans-Heavy.otf.tmp Heavy/OTC/HanPeaceSansK-Heavy.otf.tmp Heavy/OTC/HanPeaceSansSC-Heavy.otf.tmp Heavy/OTC/HanPeaceSansTC-Heavy.otf.tmp
+otf2otc -o HanPeaceSans.ttc ExtraLight/OTC/HanPeaceSansJP-ExtraLight.otf.tmp ExtraLight/OTC/HanPeaceSansKR-ExtraLight.otf.tmp ExtraLight/OTC/HanPeaceSansSC-ExtraLight.otf.tmp ExtraLight/OTC/HanPeaceSansTC-ExtraLight.otf.tmp Light/OTC/HanPeaceSansJP-Light.otf.tmp Light/OTC/HanPeaceSansKR-Light.otf.tmp Light/OTC/HanPeaceSansSC-Light.otf.tmp Light/OTC/HanPeaceSansTC-Light.otf.tmp Normal/OTC/HanPeaceSansJP-Normal.otf.tmp Normal/OTC/HanPeaceSansKR-Normal.otf.tmp Normal/OTC/HanPeaceSansSC-Normal.otf.tmp Normal/OTC/HanPeaceSansTC-Normal.otf.tmp Regular/OTC/HanPeaceSansJP-Regular.otf.tmp Regular/OTC/HanPeaceSansKR-Regular.otf.tmp Regular/OTC/HanPeaceSansSC-Regular.otf.tmp Regular/OTC/HanPeaceSansTC-Regular.otf.tmp Regular/OTC/HanPeaceSansHWJP-Regular.otf.tmp Regular/OTC/HanPeaceSansHWKR-Regular.otf.tmp Regular/OTC/HanPeaceSansHWSC-Regular.otf.tmp Regular/OTC/HanPeaceSansHWTW-Regular.otf.tmp Medium/OTC/HanPeaceSansJP-Medium.otf.tmp Medium/OTC/HanPeaceSansKR-Medium.otf.tmp Medium/OTC/HanPeaceSansSC-Medium.otf.tmp Medium/OTC/HanPeaceSansTC-Medium.otf.tmp Bold/OTC/HanPeaceSansJP-Bold.otf.tmp Bold/OTC/HanPeaceSansKR-Bold.otf.tmp Bold/OTC/HanPeaceSansSC-Bold.otf.tmp Bold/OTC/HanPeaceSansTC-Bold.otf.tmp Bold/OTC/HanPeaceSansHWJP-Bold.otf.tmp Bold/OTC/HanPeaceSansHWKR-Bold.otf.tmp Bold/OTC/HanPeaceSansHWSC-Bold.otf.tmp Bold/OTC/HanPeaceSansHWTW-Bold.otf.tmp Heavy/OTC/HanPeaceSansJP-Heavy.otf.tmp Heavy/OTC/HanPeaceSansKR-Heavy.otf.tmp Heavy/OTC/HanPeaceSansSC-Heavy.otf.tmp Heavy/OTC/HanPeaceSansTC-Heavy.otf.tmp
 
 # EOF
