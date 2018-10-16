@@ -4,7 +4,7 @@
 
 "Han Peace Sans" is a font collection by Adobe Systems and Katayama Hirofumi MZ for Far-East Asia languages (Chinese, Japanese and Korean).
 
-It contains the following fonts:
+It contains the following 8 fonts:
 
 ```txt
 Han Peace Sans CN
@@ -18,22 +18,23 @@ Han Peace Sans Mono TW
 ```
 
 Hereby, "CN" stands for Chinese (Simpilified Chinese), "JP" stands for Japanese, "KR" stands for Korean, and "TW" stands for Taiwan (Traditional Chinese).
+"Mono" means fixed pitch.
 
 ## HOW TO BUILD
 
 Please install [the Adobe Font Development Kit for OpenType (AFDKO)](https://www.adobe.com/devnet/opentype/afdko.html) before building Han Peace Sans.
 
-To build all, Double-Click "Regular/build.all.cmd" and "Regular/OTC/build.all.cmd" batch files. Then, the following 4 font files will be generated:
+To build all, Double-Click "Regular/build.all.cmd" and "Regular/OTC/build.all.cmd" batch files. Then, the following 8 font files will be generated:
 
 ```txt
-HanPeaceSansTW-Regular.otf
-HanPeaceSansCN-Regular.otf
-HanPeaceSansJP-Regular.otf
-HanPeaceSansKR-Regular.otf
-HanPeaceSansMonoTW-Regular.otf
-HanPeaceSansMonoKR-Regular.otf
-HanPeaceSansMonoJP-Regular.otf
-HanPeaceSansMonoSC-Regular.otf
+Regular/HanPeaceSansTW-Regular.otf
+Regular/HanPeaceSansCN-Regular.otf
+Regular/HanPeaceSansJP-Regular.otf
+Regular/HanPeaceSansKR-Regular.otf
+Regular/OTC/HanPeaceSansMonoTW-Regular.otf
+Regular/OTC/HanPeaceSansMonoKR-Regular.otf
+Regular/OTC/HanPeaceSansMonoJP-Regular.otf
+Regular/OTC/HanPeaceSansMonoSC-Regular.otf
 ```
 
 ## Copyright Notice
