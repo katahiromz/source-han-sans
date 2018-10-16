@@ -1,47 +1,47 @@
-[SourceHanSansJP-Regular]
+[HanPeaceSansJP-Regular]
 	f=3,1,0x411,\6E90\30CE\89D2\30B4\30B7\30C3\30AF JP
 	s=3,1,0x411,Regular
-	f=Source Han Sans JP
+	f=Han Peace Sans JP
 	s=Regular
 
-[SourceHanSansJP-Bold]
+[HanPeaceSansJP-Bold]
 	f=3,1,0x411,\6E90\30CE\89D2\30B4\30B7\30C3\30AF JP
 	s=3,1,0x411,Bold
-	f=Source Han Sans JP
+	f=Han Peace Sans JP
 	s=Bold
 
-[SourceHanSansKR-Regular]
+[HanPeaceSansKR-Regular]
 	f=3,1,0x412,\BCF8\ACE0\B515 KR
 	s=3,1,0x412,Regular
-	f=Source Han Sans KR
+	f=Han Peace Sans KR
 	s=Regular
 
-[SourceHanSansKR-Bold]
+[HanPeaceSansKR-Bold]
 	f=3,1,0x412,\BCF8\ACE0\B515 KR
 	s=3,1,0x412,Bold
-	f=Source Han Sans KR
+	f=Han Peace Sans KR
 	s=Bold
 
-[SourceHanSansCN-Regular]
+[HanPeaceSansCN-Regular]
 	f=3,1,0x804,\601D\6E90\9ED1\4F53 CN
 	s=3,1,0x804,Regular
-	f=Source Han Sans CN
+	f=Han Peace Sans CN
 	s=Regular
 
-[SourceHanSansCN-Bold]
+[HanPeaceSansCN-Bold]
 	f=3,1,0x804,\601D\6E90\9ED1\4F53 CN
 	s=3,1,0x804,Bold
-	f=Source Han Sans CN
+	f=Han Peace Sans CN
 	s=Bold
 
-[SourceHanSansTW-Regular]
+[HanPeaceSansTW-Regular]
 	f=3,1,0x404,\601D\6E90\9ED1\9AD4 TW
 	s=3,1,0x404,Regular
-	f=Source Han Sans TW
+	f=Han Peace Sans TW
 	s=Regular
 
-[SourceHanSansTW-Bold]
+[HanPeaceSansTW-Bold]
 	f=3,1,0x404,\601D\6E90\9ED1\9AD4 TW
 	s=3,1,0x404,Bold
-	f=Source Han Sans TW
+	f=Han Peace Sans TW
 	s=Bold

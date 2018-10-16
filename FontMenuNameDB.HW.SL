@@ -1,47 +1,47 @@
-[SourceHanSansHW-Regular]
+[HanPeaceSansHW-Regular]
 	f=3,1,0x411,\6E90\30CE\89D2\30B4\30B7\30C3\30AF HW
 	s=3,1,0x411,Regular
-	f=Source Han Sans HW
+	f=Han Peace Sans HW
 	s=Regular
 
-[SourceHanSansHW-Bold]
+[HanPeaceSansHW-Bold]
 	f=3,1,0x411,\6E90\30CE\89D2\30B4\30B7\30C3\30AF HW
 	s=3,1,0x411,Bold
-	f=Source Han Sans HW
+	f=Han Peace Sans HW
 	s=Bold
 
-[SourceHanSansHWK-Regular]
+[HanPeaceSansHWK-Regular]
 	f=3,1,0x412,\BCF8\ACE0\B515 HW
 	s=3,1,0x412,Regular
-	f=Source Han Sans HW K
+	f=Han Peace Sans HW K
 	s=Regular
 
-[SourceHanSansHWK-Bold]
+[HanPeaceSansHWK-Bold]
 	f=3,1,0x412,\BCF8\ACE0\B515 HW
 	s=3,1,0x412,Bold
-	f=Source Han Sans HW K
+	f=Han Peace Sans HW K
 	s=Bold
 
-[SourceHanSansHWSC-Regular]
+[HanPeaceSansHWSC-Regular]
 	f=3,1,0x804,\601D\6E90\9ED1\4F53 HW
 	s=3,1,0x804,Regular
-	f=Source Han Sans HW SC
+	f=Han Peace Sans HW SC
 	s=Regular
 
-[SourceHanSansHWSC-Bold]
+[HanPeaceSansHWSC-Bold]
 	f=3,1,0x804,\601D\6E90\9ED1\4F53 HW
 	s=3,1,0x804,Bold
-	f=Source Han Sans HW SC
+	f=Han Peace Sans HW SC
 	s=Bold
 
-[SourceHanSansHWTC-Regular]
+[HanPeaceSansHWTC-Regular]
 	f=3,1,0x404,\601D\6E90\9ED1\9AD4 HW
 	s=3,1,0x404,Regular
-	f=Source Han Sans HW TC
+	f=Han Peace Sans HW TC
 	s=Regular
 
-[SourceHanSansHWTC-Bold]
+[HanPeaceSansHWTC-Bold]
 	f=3,1,0x404,\601D\6E90\9ED1\9AD4 HW
 	s=3,1,0x404,Bold
-	f=Source Han Sans HW TC
+	f=Han Peace Sans HW TC
 	s=Bold

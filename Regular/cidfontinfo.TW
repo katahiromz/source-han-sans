@@ -1,14 +1,14 @@
-FontName                   (SourceHanSansTW-Regular)
-FullName                   (Source Han Sans TW Regular)
-FamilyName                 (Source Han Sans TW)
+FontName                   (HanPeaceSansTW-Regular)
+FullName                   (Han Peace Sans TW Regular)
+FamilyName                 (Han Peace Sans TW)
 Weight                     (Regular)
 version                    (1.004)
 Registry                   (Adobe)
 Ordering                   (Identity)
 Supplement                 0
 XUID                       [1 11 9274305]
-Layout                     (AI0-SourceHanSans)
-Subset                     (AI0-SourceHanSans.TW)
+Layout                     (AI0-HanPeaceSans)
+Subset                     (AI0-HanPeaceSans.TW)
 FSType                     0
 isFixedPitch               false
 UnderlinePosition          -150
