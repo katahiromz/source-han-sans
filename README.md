@@ -11,11 +11,13 @@ Han Peace Sans CN
 Han Peace Sans JP
 Han Peace Sans KR
 Han Peace Sans TW
+Han Peace Sans Mono CN
+Han Peace Sans Mono JP
+Han Peace Sans Mono KR
+Han Peace Sans Mono TW
 ```
 
 Hereby, "CN" stands for Chinese (Simpilified Chinese), "JP" stands for Japanese, "KR" stands for Korean, and "TW" stands for Taiwan (Traditional Chinese).
-
-Total size is about 52MB.
 
 ## HOW TO BUILD
 
@@ -28,10 +30,10 @@ HanPeaceSansTW-Regular.otf
 HanPeaceSansCN-Regular.otf
 HanPeaceSansJP-Regular.otf
 HanPeaceSansKR-Regular.otf
-HanPeaceSansHWTW-Regular.otf
-HanPeaceSansHWKR-Regular.otf
-HanPeaceSansHWJP-Regular.otf
-HanPeaceSansHWSC-Regular.otf
+HanPeaceSansMonoTW-Regular.otf
+HanPeaceSansMonoKR-Regular.otf
+HanPeaceSansMonoJP-Regular.otf
+HanPeaceSansMonoSC-Regular.otf
 ```
 
 ## Copyright Notice

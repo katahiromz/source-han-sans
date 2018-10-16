@@ -1,8 +1,8 @@
 %!PS-Adobe-3.0 Resource-CMap
 %%DocumentNeededResources: ProcSet (CIDInit)
 %%IncludeResource: ProcSet (CIDInit)
-%%BeginResource: CMap (UniHanPeaceSansHWJP-UTF32-H)
-%%Title: (UniHanPeaceSansHWJP-UTF32-H Adobe Identity 0)
+%%BeginResource: CMap (UniHanPeaceSansMonoJP-UTF32-H)
+%%Title: (UniHanPeaceSansMonoJP-UTF32-H Adobe Identity 0)
 %%Version: 1.002
 %%Copyright: -----------------------------------------------------------
 %%Copyright: Copyright 1990-2015 Adobe Systems Incorporated
@@ -34,7 +34,7 @@ begincmap
   /Supplement 0 def
 end def
 
-/CMapName /UniHanPeaceSansHWJP-UTF32-H def
+/CMapName /UniHanPeaceSansMonoJP-UTF32-H def
 /CMapVersion 1.002 def
 /CMapType 1 def
 
