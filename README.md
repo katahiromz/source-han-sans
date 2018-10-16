@@ -18,7 +18,7 @@ Han Peace Sans Mono TW
 ```
 
 Hereby, "CN" stands for Chinese (Simpilified Chinese), "JP" stands for Japanese, "KR" stands for Korean, and "TW" stands for Taiwan (Traditional Chinese).
-"Mono" means fixed pitch.
+"Mono" means fixed pitch (monospaced).
 
 ## HOW TO BUILD
 
