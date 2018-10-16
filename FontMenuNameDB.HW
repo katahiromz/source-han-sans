@@ -1,63 +1,19 @@
 [HanPeaceSansHW-Regular]
-	f=3,1,0x411,\6E90\30CE\89D2\30B4\30B7\30C3\30AF HW
-	s=3,1,0x411,Regular
-	l=3,1,0x411,\6E90\30CE\89D2\30B4\30B7\30C3\30AF HW Regular
 	f=Han Peace Sans HW
 	s=Regular
 	l=Han Peace Sans HW Regular
 
-[HanPeaceSansHW-Bold]
-	f=3,1,0x411,\6E90\30CE\89D2\30B4\30B7\30C3\30AF HW
-	s=3,1,0x411,Bold
-	l=3,1,0x411,\6E90\30CE\89D2\30B4\30B7\30C3\30AF HW Bold
-	f=Han Peace Sans HW
-	s=Bold
-	l=Han Peace Sans HW Bold
-
 [HanPeaceSansHWK-Regular]
-	f=3,1,0x412,\BCF8\ACE0\B515 HW
-	s=3,1,0x412,Regular
-	l=3,1,0x412,\BCF8\ACE0\B515 HW Regular
 	f=Han Peace Sans HW K
 	s=Regular
 	l=Han Peace Sans HW K Regular
 
-[HanPeaceSansHWK-Bold]
-	f=3,1,0x412,\BCF8\ACE0\B515 HW
-	s=3,1,0x412,Bold
-	l=3,1,0x412,\BCF8\ACE0\B515 HW Bold
-	f=Han Peace Sans HW K
-	s=Bold
-	l=Han Peace Sans HW K Bold
-
 [HanPeaceSansHWSC-Regular]
-	f=3,1,0x804,\601D\6E90\9ED1\4F53 HW
-	s=3,1,0x804,Regular
-	l=3,1,0x804,\601D\6E90\9ED1\4F53 HW Regular
 	f=Han Peace Sans HW SC
 	s=Regular
 	l=Han Peace Sans HW SC Regular
 
-[HanPeaceSansHWSC-Bold]
-	f=3,1,0x804,\601D\6E90\9ED1\4F53 HW
-	s=3,1,0x804,Bold
-	l=3,1,0x804,\601D\6E90\9ED1\4F53 HW Bold
-	f=Han Peace Sans HW SC
-	s=Bold
-	l=Han Peace Sans HW SC Bold
-
 [HanPeaceSansHWTC-Regular]
-	f=3,1,0x404,\601D\6E90\9ED1\9AD4 HW
-	s=3,1,0x404,Regular
-	l=3,1,0x404,\601D\6E90\9ED1\9AD4 HW Regular
 	f=Han Peace Sans HW TC
 	s=Regular
 	l=Han Peace Sans HW TC Regular
-
-[HanPeaceSansHWTC-Bold]
-	f=3,1,0x404,\601D\6E90\9ED1\9AD4 HW
-	s=3,1,0x404,Bold
-	l=3,1,0x404,\601D\6E90\9ED1\9AD4 HW Bold
-	f=Han Peace Sans HW TC
-	s=Bold
-	l=Han Peace Sans HW TC Bold
