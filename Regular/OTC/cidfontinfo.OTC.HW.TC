@@ -11,8 +11,7 @@ Layout                     (AI0-HanPeaceSans)
 FSType                     0
 isFixedPitch               false
 UnderlinePosition          -150
-AdobeCopyright             (Copyright 2014, 2015 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'.)
-Trademark                  (Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries.)
+Copyright                  (Copyright 2017 Adobe Systems Incorporated (http://www.adobe.com/). Copyright (C) 2018 Katayama Hirofumi MZ.)
 Serif                      false
 IsBoldStyle                false
 IsItalicStyle              false
