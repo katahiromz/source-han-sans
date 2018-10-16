@@ -34,7 +34,7 @@ Regular/HanPeaceSansKR-Regular.otf
 Regular/OTC/HanPeaceSansMonoTW-Regular.otf
 Regular/OTC/HanPeaceSansMonoKR-Regular.otf
 Regular/OTC/HanPeaceSansMonoJP-Regular.otf
-Regular/OTC/HanPeaceSansMonoSC-Regular.otf
+Regular/OTC/HanPeaceSansMonoCN-Regular.otf
 ```
 
 ## Copyright Notice
